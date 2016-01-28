@@ -1,0 +1,18 @@
+c:\users\jack\documents\visual studio 2015\Projects\robotdownload\robotdownload\bin\Debug\robotdownload.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\robotdownload\robotdownload\bin\Debug\robotdownload.exe
+c:\users\jack\documents\visual studio 2015\Projects\robotdownload\robotdownload\bin\Debug\robotdownload.pdb
+c:\users\jack\documents\visual studio 2015\Projects\robotdownload\robotdownload\obj\Debug\robotdownload.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2015\Projects\robotdownload\robotdownload\obj\Debug\robotdownload.Form1.resources
+c:\users\jack\documents\visual studio 2015\Projects\robotdownload\robotdownload\obj\Debug\robotdownload.Properties.Resources.resources
+c:\users\jack\documents\visual studio 2015\Projects\robotdownload\robotdownload\obj\Debug\robotdownload.csproj.GenerateResource.Cache
+c:\users\jack\documents\visual studio 2015\Projects\robotdownload\robotdownload\obj\Debug\robotdownload.exe
+c:\users\jack\documents\visual studio 2015\Projects\robotdownload\robotdownload\obj\Debug\robotdownload.pdb
+D:\projects\robotdownload\robotdownload\bin\Debug\robotdownload.exe.config
+D:\projects\robotdownload\robotdownload\obj\Debug\robotdownload.exe
+D:\projects\robotdownload\robotdownload\obj\Debug\robotdownload.pdb
+D:\projects\robotdownload\robotdownload\bin\Debug\robotdownload.exe
+D:\projects\robotdownload\robotdownload\bin\Debug\robotdownload.pdb
+D:\projects\robotdownload\robotdownload\obj\Debug\robotdownload.csprojResolveAssemblyReference.cache
+D:\projects\robotdownload\robotdownload\obj\Debug\robotdownload.Form1.resources
+D:\projects\robotdownload\robotdownload\obj\Debug\robotdownload.Properties.Resources.resources
+D:\projects\robotdownload\robotdownload\obj\Debug\robotdownload.csproj.GenerateResource.Cache
